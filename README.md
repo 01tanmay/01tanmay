@@ -33,6 +33,11 @@ I enjoy designing maintainable systems, improving application quality and securi
 
 **Exploring:** Generative AI · LLM integration · AI-assisted developer workflows
 
+## Public engineering work
+
+### [Stock Market 2.0](https://github.com/01tanmay/Stock-Market-2.0)
+An earlier full-stack project bringing together Spring-based services, service discovery, an API gateway, Angular, and monitoring tools. The repository documents a learning/demo architecture rather than a maintained production system.
+
 ## Selected personal projects
 
 ### Ghar Ledger
