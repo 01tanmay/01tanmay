@@ -1,60 +1,76 @@
 <div align="center">
 
-# Hi, I'm Tanmay 👋
+# 👋 Hi, I'm Tanmay
 
-### Senior Software Engineer · Java & Spring Boot · AWS · Full-Stack Engineering
+**Senior Software Engineer | Java · Spring Boot · AWS · Full-Stack Engineering**
 
 *Engineering scalable systems. Exploring intelligent solutions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsd01/)
-[![GitHub](https://img.shields.io/badge/GitHub-01tanmay-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/01tanmay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsd01/)
+[![GitHub](https://img.shields.io/badge/GitHub-01tanmay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01tanmay)
 
 </div>
 
-## About me
+## 💫 About me
 
-I'm a software engineer with nearly 12 years of experience building and modernizing enterprise applications. My work spans Java and Spring Boot backend services, REST APIs, Angular and React frontends, and AWS cloud infrastructure.
+I'm a software engineer with nearly **12 years of experience** building and modernizing enterprise applications. I work across Java and Spring Boot backend services, REST APIs, Angular and React frontends, and AWS cloud infrastructure.
 
-I enjoy designing maintainable systems, improving application quality and security, and solving complex engineering problems. I'm also exploring practical applications of generative AI and LLMs in software engineering and enterprise workflows.
-
-- 🔭 **What I work with:** Java, Spring Boot, microservices, Angular, React, TypeScript, and AWS
-- 🧩 **What I care about:** Backend design, API quality, application modernization, security, and reliable delivery
-- 🌱 **What I'm learning:** Applied AI, generative AI, and LLM-powered application patterns
-- 🎓 **Certification:** AWS Certified AI Practitioner
+- 🔧 **Building:** Maintainable APIs, secure integrations, and full-stack applications
+- 🧩 **Interested in:** System design, modernization, cloud engineering, and engineering quality
+- 🌱 **Exploring:** Generative AI, LLM integration, and practical AI-assisted workflows
+- 🎓 **Certified:** AWS Certified AI Practitioner
 - 📍 **Based in:** Pune, India
 
-## Tech stack
+## 💻 Tech stack
 
-**Backend:** Java · Spring Boot · Spring Security · REST APIs · JPA/Hibernate · Microservices
+**Backend & APIs**
 
-**Frontend:** Angular · React · TypeScript · JavaScript
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-465A65?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=flat-square)
 
-**Cloud & engineering:** AWS · Docker · CI/CD · Git · OAuth 2.0 · PostgreSQL
+**Frontend**
 
-**Exploring:** Generative AI · LLM integration · AI-assisted developer workflows
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Public engineering work
+**Cloud, databases & delivery**
 
-### [Stock Market 2.0](https://github.com/01tanmay/Stock-Market-2.0)
-An earlier full-stack project bringing together Spring-based services, service discovery, an API gateway, Angular, and monitoring tools. The repository documents a learning/demo architecture rather than a maintained production system.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-334155?style=flat-square)
 
-## Selected personal projects
+**Exploring:** Generative AI · Large Language Models · AI-assisted engineering
 
-### Ghar Ledger
-An Android application for managing property rent, electricity readings, and household administration, with a focus on multi-device synchronization and practical everyday workflows.
+## 🚀 Projects
 
-### PehleSe
-A household reminders application exploring shared lists, recurring reminders, access roles, and cross-device coordination.
+### [Stock Market 2.0](https://github.com/01tanmay/Stock-Market-2.0) · Public
+An earlier full-stack learning/demo project featuring Spring-based services, service discovery, an API gateway, Angular, and monitoring tools.
 
-> These are personal projects. Source repositories are currently private; descriptions here are high-level.
+### Ghar Ledger · Private
+A personal Android application for property rent, electricity readings, and household administration, with multi-device synchronization.
 
-## Engineering interests
+### PehleSe · Private
+A personal reminders application exploring shared household workflows, recurring reminders, access roles, and cross-device coordination.
 
-- Designing dependable backend services and APIs
-- Modernizing enterprise applications and frontend frameworks
-- Strengthening authentication, testing, and delivery practices
-- Applying AI capabilities to useful software workflows
+*The private repositories are not publicly accessible; the descriptions above are intentionally high-level.*
 
-## Connect
+## 🧭 Engineering interests
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/tsd01/) or explore my [public repositories](https://github.com/01tanmay?tab=repositories).
+- Reliable backend systems, API design, and service integrations
+- Modern frontend architecture and enterprise application modernization
+- Authentication, automated testing, and delivery quality
+- Useful, grounded applications of GenAI and LLMs
+
+---
+
+<div align="center">
+  <sub>Always learning · Always building</sub>
+</div>
