@@ -54,13 +54,16 @@ I'm a software engineer with nearly **12 years of experience** building and mode
 ### [Stock Market 2.0](https://github.com/01tanmay/Stock-Market-2.0) · Public
 An earlier full-stack learning/demo project featuring Spring-based services, service discovery, an API gateway, Angular, and monitoring tools.
 
-### Ghar Ledger · Private
+### [Ghar Ledger](portfolio/ghar-ledger.md) · Private
 A personal Android application for property rent, electricity readings, and household administration, with multi-device synchronization.
 
-### PehleSe · Private
+### [PehleSe](portfolio/pehlese.md) · Private
 A personal reminders application exploring shared household workflows, recurring reminders, access roles, and cross-device coordination.
 
 *The private repositories are not publicly accessible; the descriptions above are intentionally high-level.*
+
+### [Enterprise Knowledge Assistant](portfolio/enterprise-knowledge-assistant.md) · RAG Starter
+A local-first Java/Spring Boot RAG prototype design using Ollama, API-key access, text chunk retrieval, and source citations. Source archive prepared; build and runtime verification pending.
 
 ## 🧭 Engineering interests
 
